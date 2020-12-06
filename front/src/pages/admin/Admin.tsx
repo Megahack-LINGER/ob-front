@@ -4,7 +4,7 @@ import React from 'react';
 //---- Styles
 import "./Admin.css"
 
-import cisa from "../../imagens/arte11.gif"
+import cisa from "../../imagens/image18.gif"
 
 export default function Admin() {
     return <div id="home">

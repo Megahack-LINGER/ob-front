@@ -4,7 +4,7 @@ import React from 'react';
 //---- Styles
 import "./Sobre.css"
 
-import cisa from "../../imagens/arte11.gif"
+import cisa from "../../imagens/arte2.gif"
 
 export default function Sobre() {
     return <div id="home">

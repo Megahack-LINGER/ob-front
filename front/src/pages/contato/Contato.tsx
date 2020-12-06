@@ -4,11 +4,11 @@ import React from 'react';
 //---- Styles
 import "./Contato.css"
 
-import cisa from "../../imagens/arte11.gif"
+import cisa from "../../imagens/arte9.gif"
 
 export default function Contato() {
     return <div id="home">
-	<h2>Fale Conoscone</h2>
+	<h2>Fale Conosco</h2>
  	<h3>Simplificando a vida</h3>
     	<p>Queremos esclarecer suas dúvidade e receber sugestões.</p>
     	<img src={cisa} width="100vw" alt="cisa" />

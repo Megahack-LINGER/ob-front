@@ -4,7 +4,7 @@ import React from 'react';
 //---- Styles
 import "./Perfil.css"
 
-import cisa from "../../imagens/arte11.gif"
+import cisa from "../../imagens/image16.gif"
 
 export default function Perfil() {
     return <div id="home">
