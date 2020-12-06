@@ -24,3 +24,9 @@ Open Banking Front
 	Account information
 	Payment Information
 
+
+## How to run
+
+	cd front
+	npm start
+
