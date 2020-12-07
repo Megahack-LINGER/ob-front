@@ -20,11 +20,11 @@ export default function Perfil() {
                 <th>Nome do Cliente</th><th>ID</th><th>Conta</th><th>Banco</th><th>Saldo</th><th>Acesso Cadastro</th>
         </tr>
         <tr>
-                <td>Leonardo Matayoshi</td> <td>LYM-001</td><td>000203-020</td><td><img src="https://s3-eu-west-1.amazonaws.com/psd2e/client-logo/mybank-obie.svg" width="40" /></td> <td>R$ 10000,00</td>  <td><a href="https://core.obiebank.banfico.com/user/accounts" target="_blank" >Acessar</a></td>
+                <td>Leonardo Matayoshi</td> <td>LYM-001</td><td>000203-020</td><td><img src="https://s3-eu-west-1.amazonaws.com/psd2e/client-logo/mybank-obie.svg" width="40" alt=""   /></td> <td>R$ 10000,00</td>  <td><a href="https://core.obiebank.banfico.com/user/accounts" target="_blank" rel="noreferrer"  >Acessar</a></td>
         </tr>
 
         <tr>
-                <td>Leonardo Matayoshi</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" /></td><td>R$ 3000,00</td><td><a href="https://developer.autbank.banfico.com/" target="_blank" >Acessar</a></td>
+                <td>Leonardo Matayoshi</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" alt=""   /></td><td>R$ 3000,00</td><td><a href="https://developer.autbank.banfico.com/" target="_blank" rel="noreferrer"  >Acessar</a></td>
         </tr>
 
         </table>
@@ -38,28 +38,28 @@ export default function Perfil() {
                 <th>Nome do Cliente</th><th>ID</th><th>Conta</th><th>Banco</th><th>Acesso Transações</th>
         </tr>
         <tr>
-                <td>Leonardo Matayoshi</td> <td>LYM-001</td><td>000203-020</td><td><img src="https://s3-eu-west-1.amazonaws.com/psd2e/client-logo/mybank-obie.svg" width="40" /></td><td><a href="https://core.obiebank.banfico.com/user/accounts" target="_blank" >Acessar</a></td>
+                <td>Leonardo Matayoshi</td> <td>LYM-001</td><td>000203-020</td><td><img src="https://s3-eu-west-1.amazonaws.com/psd2e/client-logo/mybank-obie.svg" width="40" alt=""   /></td><td><a href="https://core.obiebank.banfico.com/user/accounts" target="_blank" rel="noreferrer"  >Acessar</a></td>
         </tr>
         <tr>
-                <td>Credito: 01-12-2020 R$ 20,00</td> <td>LYM-001</td><td>000203-020</td><td><img src="https://s3-eu-west-1.amazonaws.com/psd2e/client-logo/mybank-obie.svg" width="40" /></td><td><a href="https://core.obiebank.banfico.com/user/accounts" target="_blank" >Acessar</a></td>
+                <td>Credito: 01-12-2020 R$ 20,00</td> <td>LYM-001</td><td>000203-020</td><td><img src="https://s3-eu-west-1.amazonaws.com/psd2e/client-logo/mybank-obie.svg" width="40" alt=""   /></td><td><a href="https://core.obiebank.banfico.com/user/accounts" target="_blank" rel="noreferrer"  >Acessar</a></td>
         </tr>
         <tr>
-                <td>Débito: 02-12-2020 R$ 30,00</td> <td>LYM-001</td><td>000203-020</td><td><img src="https://s3-eu-west-1.amazonaws.com/psd2e/client-logo/mybank-obie.svg" width="40" /></td><td><a href="https://core.obiebank.banfico.com/user/accounts" target="_blank" >Acessar</a></td>
-        </tr>
-
-
-        <tr>
-                <td>Leonardo Matayoshi</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" /></td><td><a href="https://developer.autbank.banfico.com/" target="_blank" >Acessar</a></td>
+                <td>Débito: 02-12-2020 R$ 30,00</td> <td>LYM-001</td><td>000203-020</td><td><img src="https://s3-eu-west-1.amazonaws.com/psd2e/client-logo/mybank-obie.svg" width="40" alt=""   /></td><td><a href="https://core.obiebank.banfico.com/user/accounts" target="_blank" rel="noreferrer"  >Acessar</a></td>
         </tr>
 
+
         <tr>
-                <td>Débito Pagamento: 02-12-2020 R$ 120,00</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" /></td><td><a href="https://developer.autbank.banfico.com/" target="_blank" >Acessar</a></td>
+                <td>Leonardo Matayoshi</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" alt=""   /></td><td><a href="https://developer.autbank.banfico.com/" target="_blank" rel="noreferrer"  >Acessar</a></td>
+        </tr>
+
+        <tr>
+                <td>Débito Pagamento: 02-12-2020 R$ 120,00</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" alt=""   /></td><td><a href="https://developer.autbank.banfico.com/" target="_blank" rel="noreferrer"  >Acessar</a></td>
         </tr>
         <tr>
-                <td>Credito VT: 10-12-2020 R$ 200,00 (Lanç. Futuro)</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" /></td><td><a href="https://developer.autbank.banfico.com/" target="_blank" >Acessar</a></td>
+                <td>Credito VT: 10-12-2020 R$ 200,00 (Lanç. Futuro)</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" alt=""   /></td><td><a href="https://developer.autbank.banfico.com/" target="_blank" rel="noreferrer"  >Acessar</a></td>
         </tr>
         <tr>
-                <td>Transferência: 10-12-2020 R$ 120,00 (Lanç. Futuro)</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" /></td><td><a href="https://developer.autbank.banfico.com/" target="_blank" >Acessar</a></td>
+                <td>Transferência: 10-12-2020 R$ 120,00 (Lanç. Futuro)</td><td>LYM-002</td><td>9949490-093</td><td><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEHe95ExdBYhA/company-logo_200_200/0?e=2159024400&v=beta&t=nQGHV1vDgxogJtgQzIPahAJeH92GfCiF9Y9a-fNgqnU" width="40" alt=""   /></td><td><a href="https://developer.autbank.banfico.com/" target="_blank" rel="noreferrer"  >Acessar</a></td>
         </tr>
 
         </table>
